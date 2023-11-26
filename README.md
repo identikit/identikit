@@ -4,6 +4,8 @@
 
 - <b>Microservices</b>
   - [Microservices: Clean Architecture,DDD,SAGA,Outbox & Kafka](https://github.com/identikit/order-service)
+- <b>Web App (React)</b>
+  - [Tic-Tac-Toe game React](https://github.com/identikit/tic-tac-toe) <b><i>(Potentially NSFW)</b></i>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
